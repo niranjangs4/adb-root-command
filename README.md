@@ -1,5 +1,6 @@
 # adb-root-command
 Quick Root Command references
+adb pixel : https://dl.google.com/android/repository/platform-tools-latest-linux.zip
 
 Nexus Images: https://developers.google.com/android/nexus/images#mysid
 
